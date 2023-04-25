@@ -6,8 +6,7 @@
   * @n: the number to start printing from
   * Return: Always 0
   */
-
-int print_to_98(int n)
+void print_to_98(int n)
 {
 	if (n <= 98)
 	{
